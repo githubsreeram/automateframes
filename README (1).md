@@ -39,8 +39,8 @@ public class Frames {
 		int total= list.size();
 		System.out.println(total);
 		
-		
-		
+		driver.switchTo().defaultContent();
+		System.out.println(total);
 		
 		
 		
